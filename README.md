@@ -5,13 +5,13 @@
 
 - 🔭 Actualmente estoy trabajando en [Sabores](https://tkbxpt.github.io/Sabores/)  y su repositorio es [https://github.com/TKBXPT/Sabores](https://github.com/TKBXPT/Sabores)
 
-- 🌱 Me encuentro estudiando **Mobile, frameworks.**
+- 🌱 Me encuentro estudiando **Android Studio.**
 
 - 👯 Tengo esta web andando [Fixescell](https://fixescell.com.ar/)
 
 - 🤝 y su repositorio es [https://github.com/TKBXPT/FixesCell.github.io](https://github.com/TKBXPT/FixesCell.github.io)
 
-- 📫 How to reach me **tkbxpt@outlook.com.ar**
+- 📫 Podés escribirme a **tkbxpt@outlook.com.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
