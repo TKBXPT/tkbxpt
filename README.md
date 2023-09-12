@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkbxpt" alt="tkbxpt" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Sabores](https://github.com/TKBXPT/Sabores)
+- 🔭 Actualmente estoy trabajando en [Sabores](https://tkbxpt.github.io/Sabores/)  y su repositorio es [https://github.com/TKBXPT/Sabores](https://github.com/TKBXPT/Sabores)
 
 - 🌱 Me encuentro estudiando **Mobile, frameworks.**
 
